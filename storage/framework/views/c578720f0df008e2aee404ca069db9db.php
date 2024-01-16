@@ -1,0 +1,1 @@
+<?php /**PATH /Users/stephan/Documents/Ecommerce/resources/views/admin/body.blade.php ENDPATH**/ ?>
