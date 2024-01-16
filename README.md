@@ -19,15 +19,18 @@ MySQL
 
 Features
 
-- User Authentication:
+User Authentication:
 
 - Users can create accounts, log in securely, and enjoy personalized experiences.
+
 Admin System:
 
 - An intuitive admin system is in place to manage products, orders, and user data efficiently.
+
 Responsive Design:
 
-- The platform is designed to be responsive and mobile-friendly, thanks to Bootstrap.
+- The platform is designed to be responsive and mobile-friendly, thanks to Bootstrap and CSS.
+
 Secure Back-end:
 
 - PHP, Laravel, and MySQL ensure a robust and secure back-end, protecting user data and transactions.
