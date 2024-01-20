@@ -18,7 +18,7 @@
 
     <!-- Additional CSS Files -->
     <link rel="stylesheet" href="assets/css/fontawesome.css">
-    <link rel="stylesheet" href="assets/css/templatemo-sixteen.css">
+    <link rel="stylesheet" href="assets/css/sneakerboutique.css">
     <link rel="stylesheet" href="assets/css/owl.css">
 
   </head>
